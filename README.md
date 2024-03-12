@@ -26,7 +26,7 @@ pip install pandas mlxtend pyfpgrowth
 
 1. Clone this repository: git clone https://github.com/your-username/your-repository.git
 2. Navigate to the project directory: cd your-repository
-3. Run the Jupyter Notebook: jupyter notebook MidTerm_Project_CS634_IM.ipynb
+3. Run the Jupyter Notebook: jupyter notebook Transaction_Mining_notebook.ipynb
 4. Follow the instructions in the notebook to execute the code cells.
 
 ## Dataset
