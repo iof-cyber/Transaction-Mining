@@ -53,6 +53,6 @@ The project provides the following results:
 - Association rules mined from the frequent itemsets
 - Performance comparison of the three methods in terms of execution time
 
-## License
+## Acknowledgments
 
-This project is licensed under the [MIT License](LICENSE).
+This project was developed as part of the coursework at New Jersey Institute of Technology (NJIT).
